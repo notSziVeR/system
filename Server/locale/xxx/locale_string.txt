@@ -1,0 +1,41 @@
+"HOUR %d";
+"%d godzin ";
+
+"MINUTE %d";
+"%d minut ";
+
+"SECOND %d";
+"%d sekund";
+
+"UNDEFINED";
+"b³¹d";
+
+"MISSION INFO NOT FOUND";
+"<Misja> Wykona³eœ ju¿ wszystkie zadania! Wróæ ponownie póŸniej.";
+
+"MISSION LEVEL TOO LOW";
+"<Misja> Twój poziom jest zbyt niski. ";
+
+"MISSION NO ITEM";
+"<Misja> Nie masz odpowiedniego przedmiotu!";
+
+"MISSION WAIT";
+"<Misja> Poczekaj jeszcze przed kolejnym oddaniem.";
+
+"MISSION RETURNED SUCCESSFULLY";
+"<Misja> Przedmiot by³ doskona³ej jakoœci";
+
+"MISSION AVAILABLE NEXT MISSION";
+"<Misja> Dostêpne jest kolejne zadanie";
+
+"MISSION YOU CAN START NOW";
+"<Misja> Dostêpne jest nowe zadanie, mo¿esz zacz¹æ je ju¿ teraz";
+
+"MISSION NO MORE MISSIONS";
+"<Misja> Wykona³eœ ju¿ wszystkie zadania.";
+
+"MISSION RETURNED WRONG";
+"<Misja> Ten przedmiot by³ uszkodzony.";
+
+"MISSION RETURNED %d / %d";
+"<Misja> Uda³o siê oddaæ %d z %d przedmiotów";

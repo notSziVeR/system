@@ -1,0 +1,5 @@
+MISSION_TIME	Czas do oddania:
+MISSION_CHANCE	Szansa na oddanie:
+MISSION_REWARD	Nagroda za wykonanie zadania
+MISSION_RETURN	Oddaj
+MISSION_RETURN_ALL	Oddaj wsz.

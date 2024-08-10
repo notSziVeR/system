@@ -1,0 +1,13 @@
+MISSION_DETAIL	Lv. %d - %s (%d/%d)
+MISSION_MAP	Mapa: %s
+MISSION_REWARD_PREFIX	• %s
+MISSION_SELECT_NPC	Wybierz dostêpn¹ misjê
+MISSION_ELIXIR_INFO_RMB	PPM, aby aktywowaæ
+MISSION_ELIXIR_INFO_LMB	LPM, aby zmieniæ eliksir
+MISSION_NOT_ENOUGH_ELIXIR_ALL_01	Z uwagi na niewystarczaj¹c¹ iloœæ eliksirów oddasz
+MISSION_NOT_ENOUGH_ELIXIR_ALL_02	tylko %d (tyle, ile eliksirów) przedmiotów. Kontynuowaæ?
+MISSION_NOT_ENOUGH_ELIXIR	Nie masz eliksiru. Chcesz oddaæ bez powiêkszonej szansy?
+MISSION_NO_ELIXIR	Nie masz ¿adnego eliksiru!
+MISSION_NPC_TITLE	Misje postaci
+MISSION_REWARD	<Misja> Ukoñczy³eœ tê misjê! Oto Twoja nagroda:
+MISSION_TITLE	Misja - %s

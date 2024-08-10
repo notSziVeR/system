@@ -1,0 +1,1 @@
+# extend CPPFILE with mission_manager.cpp
